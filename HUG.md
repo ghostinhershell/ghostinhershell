@@ -5,7 +5,7 @@ Hey guys, my name is Sarto Jama. Here are some facts about me:
 - I've got a proud 8 year old that's full of personality
 - My parents immigrated here from Ethiopia, and lived here for some time before I was born.
 - I was an avid gamer growing up, loved JRPGs
-- I worked at a company called Knack for almost 6 years of my career. Wore many hats, learned so much. Will always be a proud Knacklehead!
+- I worked at a company called [Knack](https://www.knack.com/) for almost 6 years of my career. Wore many hats, learned so much. Will always be a proud Knacklehead!
 - Turning 30 made me realize that I didn't take enough risks or really live in my 20s. So I'm making up for that now by trying #allthethings!
   - So far this year I've become a hiker, gardener, community volunteer, a kayaker, tried archery, went camping, learned to grow mushrooms, climbed 3 local mountains, painted a mural, traveled out the country (Viva la Mexico 🇲🇽), changed jobs, grew closer to my Muslim faith and a bunch of other things I'm sure I'm forgetting 😅
 - I'm small enough to where, if I'm with a group of kids, you'll easily assume I'm one of them.
