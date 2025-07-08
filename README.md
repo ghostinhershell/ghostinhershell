@@ -1,16 +1,32 @@
-### Hi there 👋 this is a WIP 🎉
+### Hi there 👋 I’m ghostinhershell
 
-<!--
-**ghostinhershell/ghostinhershell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I’m a technical community builder, writer, and forever learner — passionate about making developer tools and workflows more accessible to everyday humans.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- 🧑🏽‍💻 Currently building learning journeys + engagement campaigns at **GitHub**
+- 🧠 Focused on helping new devs go from “just signed up” to “just contributed”
+- 🔐 Working across topics like **GitHub Advanced Security**, **Copilot**, and open source onboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 I Talk About
+- Developer education & storytelling  
+- Open source and community health  
+- Product feedback and user insights  
+- Making technical topics beginner-friendly  
+- Arabic, Islam, and teaching what I learn 🌙
+
+### 🛠️ Tools I Work With
+- GitHub (obviously 😉), Discussions, Projects
+- Markdown, docs-as-code, community platforms
+- A growing love for CodeQL and security workflows
+- Occasionally tinkering in VS Code + the terminal
+
+### 🤝 Let's Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/sartoj)  
+- 🧵 [My Discussions Contributions](https://github.com/orgs/community/discussions?discussions_q=author%3Aghostinhershell)
+- 📬 Ask me about community strategy, engagement frameworks, or Arabic verb charts
+
+> “Excellence is not an act, it’s a habit.” — I try to show up like that, every day.
+
+---
+
+Thanks for stopping by. Let’s build something beautiful together.
