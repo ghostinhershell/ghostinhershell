@@ -21,7 +21,7 @@ Welcome to my corner of GitHub! I’m a technical community builder, writer, and
 - Occasionally tinkering in VS Code + the terminal
 
 ### 🤝 Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/sartoj)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sartojama/)  
 - 🧵 [My Discussions Contributions](https://github.com/orgs/community/discussions?discussions_q=author%3Aghostinhershell)
 - 📬 Ask me about community strategy, engagement frameworks, or Arabic verb charts
 
